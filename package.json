@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git@github.com:alinz/react-native-share-extension.git"
   },
-  "keywords": ["react-component", "react-native", "share-extension"],
+  "keywords": [
+    "react-component",
+    "react-native",
+    "share-extension"
+  ],
   "author": {
     "name": "Ali Najafizadeh",
     "email": "a.najafizadeh@gmail.com",
